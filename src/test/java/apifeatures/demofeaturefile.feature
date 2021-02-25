@@ -5,3 +5,5 @@ Feature: Demo feature
   Scenario: Running Sample feature Screnaio 
     Given Run my sample cucumber test
     Then can run the sample test
+    Then can run the sample test
+    Then can run the sample test
